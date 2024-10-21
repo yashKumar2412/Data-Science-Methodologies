@@ -8,5 +8,5 @@ The datasets used for each methodology:
 
 The colab notebooks for the same:
 - [CRISP-DM](https://colab.research.google.com/drive/1F3sh9rq6wpH1if5pg84XSh3mRR_U6NSF?usp=sharing)
-- [KDD]()
+- [KDD](https://colab.research.google.com/drive/1LKQ1DWz_qdiLLGEGMAmIagvDuunMOcHg?usp=sharing)
 - [SEMMA]()
