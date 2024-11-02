@@ -11,4 +11,4 @@ The colab notebooks for the same:
 - [KDD](https://colab.research.google.com/drive/1LKQ1DWz_qdiLLGEGMAmIagvDuunMOcHg?usp=sharing)
 - [SEMMA](https://colab.research.google.com/drive/1ZxO_ytPbiW_ag_fDu_C6qLHB7355xhcY?usp=sharing)
 
-The folders contain the Google colab notebooks, a ChatGPT review/critique of the notebooks, an AI-generated unofficial research paper, and any other relevant files.
+The folders contain the Google colab notebooks, a ChatGPT review/critique of the notebooks, an AI-generated unofficial research paper, and any other relevant files. Check out the [Medium article](https://medium.com/@yash.arunkumar/data-science-methodologies-in-action-crisp-dm-kdd-and-semma-efb27db57940) for this project to learn more about my work!
